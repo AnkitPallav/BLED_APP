@@ -1,0 +1,1 @@
+This Android application enables users to scan for Bluetooth Low Energy (BLE) devices, connect to them, read sensor values, and send commands to control them. The app is built using Kotlin and Jetpack Compose, integrating BLE functionalities to facilitate communication with compatible devices.
